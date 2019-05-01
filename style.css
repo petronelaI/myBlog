@@ -29,7 +29,7 @@ p {
     margin: 0;
 }
 .img-circle {
-    border: 3px solid white;
+    border: 1px solid white;
     border-radius: 50%;
 }
 .section {
@@ -62,8 +62,8 @@ p {
 }
 #header img {
     display: block;
-    width: 180px;
-    height: 180px;
+    width: 15%;
+    height: 15%;
     margin: auto;
 }
 #header p {
