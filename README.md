@@ -1,4 +1,4 @@
 # myBlog
 web page >>> https://petronelai.github.io/myBlog/index.html 	
 
-:) still in development
+Still in development  :)
