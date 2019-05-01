@@ -47,13 +47,13 @@ p {
 .rFloat{
     display: inline;
     float: right;
-    width: 47%;
+    width: 49.9%;
     list-style-type:none;
 }
 .lFloat{
     display: inline;
     float: left;
-    width: 47%;
+    width: 49.9%;
     list-style-type:none;
 }
 #header {
